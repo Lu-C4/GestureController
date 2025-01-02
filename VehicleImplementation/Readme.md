@@ -25,15 +25,3 @@ Burn the `CarFunction.ino` code into the Arduino Nano.
 Motion your hand to send directional commands wirelessly to the car. Ensure that the car's motor driver and other necessary hardware are properly configured to respond to the ESP32's signals.
 
 ---
-
-## Notes
-
-- Ensure that the MPU6050 sensor is properly connected to the ESP32.
-- Verify that the car's wireless receiver is correctly paired with the ESP32.
-- Close any applications that might interfere with serial communication before running the Python script.
-- Refer to the documentation of your Python environment or hardware setup for troubleshooting.
-
----
-
-Enjoy controlling your car wirelessly with motion!
-
